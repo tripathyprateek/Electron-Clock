@@ -4,9 +4,9 @@ app.whenReady().then(createWindow);
 
 function createWindow() {
     const win = new BrowserWindow({
-        width: 190,
-        height: 80,
-        resizable: false,
+        width: 300,
+        height: 200,
+        resizable: true,
     });
     win.loadFile("index.html");
 }
