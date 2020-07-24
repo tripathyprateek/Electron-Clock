@@ -1,0 +1,15 @@
+{
+  "name": "electron-clock",
+  "version": "1.0.0",
+  "description": "Clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Prateek Tripathy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
