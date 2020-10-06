@@ -10,6 +10,6 @@
   "author": "Prateek Tripathy",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.3.0"
+    "electron": "^9.3.1"
   }
 }
